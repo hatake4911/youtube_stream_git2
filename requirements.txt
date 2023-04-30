@@ -1,1 +1,1 @@
-streamlit==1.21.0git
+streamlit==0.89.0
